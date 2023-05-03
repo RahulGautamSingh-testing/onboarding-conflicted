@@ -4,6 +4,6 @@ repositories:
   url: https://grafana.github.io/helm-charts
 requires:
 - chart: grafana/tempo-distributed
-  version: 1.0.1
+  version: 1.0.0
 version: 1
 
